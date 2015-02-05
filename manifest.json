@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Star Wars",
-  "description": "Gives you a sprinkle of Star Wars in your life.",
+  "name": "Chuck Norris Jokes",
+  "description": "Gives you a Chuck Norris joke for those lonely nights at the computer..",
   "version": "1.0",
 
   "browser_action": {
